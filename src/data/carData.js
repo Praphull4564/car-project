@@ -76,7 +76,7 @@ export const carData = [
     acceleration: "2.9s 0-60 mph",
     topSpeed: "202 mph",
     fuelEconomy: "13/18 mpg",
-    image: "https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://imgd.aeplcdn.com/664x374/n/cw/ec/14054/huracan-evo-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
     description: "Lamborghini Huracán EVO delivers breathtaking performance with its naturally aspirated V10 and cutting-edge technology."
   },
   {
@@ -124,7 +124,7 @@ export const carData = [
     acceleration: "1.99s 0-60 mph",
     topSpeed: "200 mph",
     fuelEconomy: "120 MPGe",
-    image: "https://images.pexels.com/photos/35619/tesla-model-s-electric-car-hybrid-car.jpg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-S-Exterior-Hero-Desktop-Global",
     description: "Tesla Model S Plaid redefines electric performance with ludicrous acceleration and cutting-edge autopilot technology."
   }
 ];
